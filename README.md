@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdoororganization
 - TODO - Add relevant information
-- 📫 How to reach me ...
+
 
 <!---
 jdoororganization/jdoororganization is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
